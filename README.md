@@ -52,5 +52,7 @@ A summary of the most significant results derived from the Excel analysis.
 A list of the files in the repository/folder.
 https://github.com/anjalibagal20-max/Dashboard/blob/85f4f4d7a92b21a46b3b4bd3e3bc31ade79e59d4/swiggy.csv: The raw data file.
 
-https://github.com/anjalibagal20-max/Dashboard/blob/894c1bd6c81db73c0a91e511b5277dbb28ff17ef/Screenshot%202025-09-28%20094604.png: The final Excel file with analysis, Pivot Tables, and visualizations.: 
-https://github.com/anjalibagal20-max/Dashboard/edit/main/README.md:This file.
+https://github.com/anjalibagal20-max/Dashboard/blob/894c1bd6c81db73c0a91e511b5277dbb28ff17ef/Screenshot%202025-09-28%20094604.png: 
+The final Excel file with analysis, Pivot Tables, and visualizations.: 
+
+https://github.com/anjalibagal20-max/Dashboard/edit/main/README.md:  This file.
